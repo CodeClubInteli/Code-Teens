@@ -1,8 +1,8 @@
 # Aula 1 — Algoritmos
 
-**Data:** 21/08/2025
-**Turma:** [Adolescentes de 13-15 anos] 
-**Responsável:** A decidir
+**Data:** 21/08/2025 <br>
+**Turma:** [Adolescentes de 13-15 anos] <br>
+**Responsável:** A decidir  <br>
 
 ---
 
