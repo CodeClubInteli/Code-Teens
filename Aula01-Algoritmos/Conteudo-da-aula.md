@@ -45,7 +45,7 @@ Antes, exemplificar (apenas de forma oral) junto a um monitor a construção do 
 
 ---
 
-## Slide 6
+### Slide 6
 **Pseudocódigo correto da dinâmica**
 
 ```python
