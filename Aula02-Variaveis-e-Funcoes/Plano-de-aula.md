@@ -18,9 +18,9 @@
 
 ## Conceitos Abordados
 
-Conceito 1: O que são variáveis?
-Conceito 2: Tipos de dados
-Conceito 3: O que são funções?
+- Conceito 1: O que são variáveis?
+- Conceito 2: Tipos de dados
+- Conceito 3: O que são funções?
 
 ---
 
